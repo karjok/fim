@@ -1,7 +1,7 @@
-<img src='fim.jpg' align='center'/>
-# fim
-Facebook Image Downloader
-simple tool for download any user photo albums
+<img src='fim.jpg' align='center'/></br>
+# fim</br>
+Facebook Image Downloader</br>
+simple tool for download any user photo albums</br>
 # Usage
 $ pkg update && pkg upgrade </br>
 $ pkg install python git</br>
